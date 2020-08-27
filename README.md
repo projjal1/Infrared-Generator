@@ -10,8 +10,8 @@ MatplotLib and Python3
 <h2>Sample</h2>
 <table>
   <tr>
-    <td>Original Frame</h2>
-    <td>Converted Frame</h2>
+    <th>Original Frame</th>
+    <th>Converted Frame</th>
   </tr>
   <tr>
     <td><img src="https://github.com/projjal1/Infrared-Generator/blob/master/normal-screenshot.png" /></td>
